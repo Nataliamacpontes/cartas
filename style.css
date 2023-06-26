@@ -1,0 +1,359 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-weight: normal;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    text-align: center;
+    border-radius: 15px;
+    margin: 1px;
+    width: 360px;
+    height: 400px;
+    margin-top: 0;
+    padding-top: 25px;
+}
+
+img {
+    width: 72px;
+    height: 104px;
+    position: absolute;
+}
+
+.preto {
+    background-color: black;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+main {
+    display: flex;
+}
+
+#carta1011 {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+#carta1021 {
+    position: absolute;
+    top: 40px;
+    left: 50px;
+}
+#carta1031 {
+    position: absolute;
+    top: 60px;
+    left: 70px;
+}
+
+#carta1041 {
+    position: absolute;
+    top: 80px;
+    left: 90px;
+}
+#carta1051 {
+    position: absolute;
+    top: 100px;
+    left: 110px;
+}
+
+#carta1061 {
+    position: absolute;
+    top: 120px;
+    left: 130px;
+}
+#carta1071 {
+    position: absolute;
+    top: 140px;
+    left: 150px;
+}
+#carta1081 {
+    position: absolute;
+    top: 160px;
+    left: 170px;
+}
+
+#carta1091 {
+    position: absolute;
+    top: 180px;
+    left: 190px;
+}
+
+#carta1101 {
+    position: absolute;
+    top: 200px;
+    left: 210px;
+}
+
+#carta1111 {
+    position: absolute;
+    top: 220px;
+    left: 230px;
+}
+
+#carta1121 {
+    position: absolute;
+    top: 240px;
+    left: 250px;
+}
+
+#carta1131 {
+    position: absolute;
+    top: 260px;
+    left: 270px;
+}
+
+
+
+
+
+
+
+
+
+
+#carta3011
+{
+    position: absolute;
+    top: 20px;
+    left: 620px;
+}
+#carta3021
+{
+    position: absolute;
+    top: 40px;
+    left: 600px;
+}
+#carta3031
+{
+    position: absolute;
+    top: 60px;
+    left: 580px;
+}
+#carta3041
+{
+    position: absolute;
+    top: 80px;
+    left: 560px;
+}
+#carta3051
+{
+    position: absolute;
+    top: 100px;
+    left: 540px;
+}
+#carta3061{
+    position: absolute;
+    top: 120px;
+    left: 520px;
+}
+#carta3071{
+    position: absolute;
+    top: 140px;
+    left: 500px;
+}
+#carta3081{
+    position: absolute;
+    top: 160px;
+    left: 480px;
+}
+#carta3091{
+    position: absolute;
+    top: 180px;
+    left: 460px;
+}
+#carta3101{
+    position: absolute;
+    top: 200px;
+    left: 440px;
+}
+#carta3111{
+    position: absolute;
+    top: 220px;
+    left: 420px;
+} 
+
+#carta3121 {
+    position: absolute;
+    top: 260px;
+    left: 380px;
+}
+
+#carta3131 {
+    position: absolute;
+    top: 240px;
+    left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#carta4011{
+    position: absolute;
+    top: 680px;
+    left: 30px;
+}
+#carta4021{
+    position: absolute;
+    top: 660px;
+    left: 50px;
+}
+#carta4031{
+    position: absolute;
+    top: 640px;
+    left: 70px;
+}
+#carta4041{
+    position: absolute;
+    top: 620px;
+    left: 90px;
+}
+#carta4051{
+    position: absolute;
+    top: 600px;
+    left: 110px;
+}
+#carta4061{
+    position: absolute;
+    top: 580px;
+    left: 130px;
+}
+#carta4071{
+    position: absolute;
+    top: 570px;
+    left: 150px;
+}
+#carta4081{
+    position: absolute;
+    top: 540px;
+    left: 170px;
+}
+#carta4091{
+    position: absolute;
+    top: 520px;
+    left: 190px;
+}
+#carta4101{
+    position: absolute;
+    top: 500px;
+    left: 210px;
+}
+#carta4111{
+    position: absolute;
+    top: 480px;
+    left: 230px;
+}
+#carta4121{
+    position: absolute;
+    top: 460px;
+    left: 250px;
+}
+#carta4131{
+    position: absolute;
+    top: 440px;
+    left: 270px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#carta2011
+{
+    position: absolute;
+    top: 680px;
+    left: 620px;
+}
+#carta2021
+{
+    position: absolute;
+    top: 660px;
+    left: 600px;
+}
+#carta2031
+{
+    position: absolute;
+    top: 640px;
+    left: 580px;
+}
+#carta2041
+{
+    position: absolute;
+    top: 620px;
+    left: 560px;
+}
+#carta2051
+{
+    position: absolute;
+    top: 600px;
+    left: 540px;
+}
+#carta2061
+{
+    position: absolute;
+    top: 580px;
+    left: 520px;
+}
+#carta2071
+{
+    position: absolute;
+    top: 560px;
+    left: 500px;
+}
+#carta2081
+{
+    position: absolute;
+    top: 540px;
+    left: 480px;
+}
+#carta2091
+{
+    position: absolute;
+    top: 520px;
+    left: 460px;
+}
+#carta2101
+{
+    position: absolute;
+    top: 500px;
+    left: 440px;
+}
+#carta2111
+{
+    position: absolute;
+    top: 480px;
+    left: 420px;
+}    
+#carta2121
+{
+    position: absolute;
+    top: 460px;
+    left: 400px;
+}        
+#carta2131
+{
+    position: absolute;
+    top: 440px;
+    left: 380px;
+}
